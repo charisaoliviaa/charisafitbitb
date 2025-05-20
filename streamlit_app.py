@@ -4,4 +4,4 @@ st.title("Charisa FITB-ITB")
 st.write(
     "Yuk berdoa dan belajar bareng niat masuk itb"
 )
-st.image("df9b2063649512a0a49645322941e723-removebg-preview.png", width=200)
+st.image("3e27ae0aaf708820d0ff0225fe3e1085-removebg-preview.png",width=200)
